@@ -1,7 +1,9 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>WELCOME TO TOMCAT SERVER</h2>
 </body>
+<input type="text" name="username" />
+<input type="text" name="password" />
 </html>
 
 
